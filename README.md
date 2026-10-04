@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icon.png" alt="solarmax_game simgesi" width="120"></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Stellar%20Conquest-v1.0.0-blue?style=for-the-badge" alt="Version" />
   <img src="https://img.shields.io/badge/JavaScript-ES%20Modules-yellow?style=flat-square" alt="JavaScript" />
